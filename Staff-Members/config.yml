@@ -1,0 +1,24 @@
+# http://dev.bukkit.org/bukkit-plugins/staffs
+# Made by DoraKlikOpDora/bram3535 (Same persone)
+# don't forget to place "" or '' around the text you want to get printed!
+# You can use & for color codes (shift + 7)
+
+Owner: "Place the Owners of the server here! (See the config file if you are in the game)"
+#############################################################
+# Place the MineCraftNames of the Owners of the server here.#
+#############################################################
+
+Admin: "Place the Admins of the server here! (See the config file if you are in the game)" 
+#############################################################
+# Place the MineCraftNames of the Admins of the server here.#
+#############################################################
+
+Mod: "Place the Mods of the server here! (See the config file if you are in the game)"
+###########################################################
+# Place the MineCraftNames of the Mods of the server here.#
+###########################################################
+
+Server: "Place the name of your server here, it will be show when you type the command /staff!"
+#####################################################################################
+# If you like this plugin, please leave a postive comment on the bukkit plugin page!#
+#####################################################################################

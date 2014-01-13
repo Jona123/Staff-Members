@@ -1,0 +1,10 @@
+name: Staff-Members
+author: DoraKlikOpDora, datdenkikniet
+version: 3.1
+description: >
+             Tells you who the staff is.
+main: me.datdenkikniet.Main
+commands:
+  staff:
+    description: Tells you who the staff is (permission= staffs.staff)
+  removebelow:  

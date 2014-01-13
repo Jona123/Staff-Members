@@ -7,4 +7,3 @@ main: me.datdenkikniet.Main
 commands:
   staff:
     description: Tells you who the staff is (permission= staffs.staff)
-  removebelow:  
